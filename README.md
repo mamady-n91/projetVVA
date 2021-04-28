@@ -3,4 +3,6 @@
 
 Projet (Service de location pour les vacances) dans le cadre du BTS
 Site web réalisé en HTML,CSS, Bootstrap, PhP et quelques lignes en JavaScript
-Ce sont des projets à mes débuts donc la qualité du code n'est pas parfaite :smile:
+
+
+Ce sont des projets à mes débuts donc la qualité du code n'est pas parfaite, je ne :smile:
